@@ -19,7 +19,6 @@ import chenchong.com.curtaineffect.tools.BaseTools;
 
 /**
  * 窗帘拉开自定义布局
- * @author Ra
  */
 public class CurtainView extends RelativeLayout implements OnTouchListener{
 	private static String TAG = "CurtainView";
